@@ -13,7 +13,7 @@ body {
 }
 
 @font-face {
-  font-family: OEFirstBook;
+  font-family: 'OEFirstBook';
   src: url('OEFirstBook.otf');
 }
 
