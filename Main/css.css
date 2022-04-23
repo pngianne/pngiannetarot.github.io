@@ -82,11 +82,9 @@ hr.new1 {
   margin: 10% 0;
 }
 
-.hr {
-  font-family: 'OEFirstBook';
-  font-size: 1.5em;
-  line-height: 2;
-  color: #aa002f;
+.hr img {
+  width: 40%;
+  height: auto;
 }
 
 #site_button {
