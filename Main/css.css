@@ -171,6 +171,10 @@ hr.new1 {
       line-height: 1.2;
       margin-bottom:5%;
   }
+  
+  li::marker {
+    font-size: 1.3rem;
+  }
 
   #site_button {
     right: 0.5rem;
