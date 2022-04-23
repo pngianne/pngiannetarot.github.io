@@ -14,7 +14,7 @@ body {
 
 @font-face {
   font-family: OEFirstBook;
-  src: url(OEFirstBook.otf);
+  src: url('OEFirstBook.otf');
 }
 
 a {font-weight: 700; color: #3386d3;}
