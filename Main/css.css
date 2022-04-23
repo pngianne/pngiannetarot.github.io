@@ -14,8 +14,8 @@ body {
 
 @font-face {
   font-family: 'OEFirstBook';
-  src: url('OEFirstBook.woff') format('woff'), 
-       url('OEFirstBook.ttf') format('truetype'); 
+  src: url('http://tarot.pngianne.com/Fonts/OEFirstBook.woff') format('woff'), 
+       url('http://tarot.pngianne.com/Fonts/OEFirstBook.ttf') format('truetype'); 
 }
 
 a {font-weight: 700; color: #3386d3;}
