@@ -88,7 +88,7 @@ hr.new1 {
 }
 
 .hr {
-  font-family: 'OE First Book';
+  font-family: 'OEFirstBook';
   font-size: 1.5em;
   line-height: 2;
   color: #aa002f;
@@ -176,10 +176,8 @@ hr.new1 {
   }
 
   .hr {
-    font-family: 'OEFirstBook';
     line-height: 2;
     font-size: 1.1rem;
-    color: #aa002f;
   }
 
   #site_button {
