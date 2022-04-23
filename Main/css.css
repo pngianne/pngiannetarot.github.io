@@ -82,6 +82,10 @@ hr.new1 {
   margin: 10% 0;
 }
 
+.hr {
+  margin: 1%;
+}
+
 .hr img {
   width: 40%;
   height: auto;
